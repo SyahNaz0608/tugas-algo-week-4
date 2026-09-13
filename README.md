@@ -22,6 +22,12 @@ Tampilan *output* data dirancang agar menyerupai tata letak blangko KTP fisik.
 3. Hapus: Ketik `3` lalu masukkan `Nomor Data` yang ingin dihapus dari sistem.
 4. Keluar: Ketik `4` untuk mengakhiri sesi. Memori data akan otomatis dihapus oleh sistem setelah program ditutup.
 
+## Screenshoot Jalannya Program
+
+![gambar](./img/Screenshot%20From%202026-09-13%2001-06-02.png)
+![gambar](./img/Screenshot%20From%202026-09-13%2001-06-16.png)
+![gambar](./img/Screenshot%20From%202026-09-13%2001-06-44.png)
+
 ## Penjelasan Kode
 
 1. Library yang digunakan
